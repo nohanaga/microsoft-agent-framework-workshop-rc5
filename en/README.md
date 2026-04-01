@@ -14,7 +14,7 @@ This workshop provides 10 Jupyter Notebook tutorials that progressively cover th
 - Human-in-the-Loop workflows
 - Enterprise MCP authentication
 
-> **Note:** This workshop is optimized for `agent-framework==1.0.0b260130`. Different versions may not work due to API changes.
+> **Note:** This workshop is optimized for `agent-framework==1.0.0rc5`. Different versions may not work due to API changes.
 
 ## Prerequisites
 
