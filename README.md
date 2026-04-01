@@ -133,6 +133,10 @@ AZURE_OPENAI_API_VERSION="2025-03-01-preview"
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) — ツール統合プロトコル
 - [OpenTelemetry](https://opentelemetry.io/) + [Jaeger](https://www.jaegertracing.io/) — 分散トレーシング
 
+## 謝辞
+
+このワークショップは [Goutham Koneru (@gokoner)](https://github.com/gokoner) 氏のオリジナルリポジトリ [microsoft-agent-framework-workshop](https://github.com/gokoner/microsoft-agent-framework-workshop) に多大なインスピレーションを受けました。充実したチュートリアル群を公開してくださった同氏に深く感謝いたします。
+
 ## ライセンス
 
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。
